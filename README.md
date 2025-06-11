@@ -20,7 +20,7 @@ I also run a tech blog where I introduce insights on the latest web technologies
 ![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)
 
 ### Flameworks and Library
-![](https://skillicons.dev/icons?i=wordpress)
+![](https://skillicons.dev/icons?i=wordpress,fastapi)
 
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,vim,md,mysql)
