@@ -23,7 +23,7 @@ I also run a tech blog where I introduce insights on the latest web technologies
 ![](https://skillicons.dev/icons?i=wordpress,fastapi)
 
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,vim,md,mysql)
+![](https://skillicons.dev/icons?i=git,github,vim,md,mysql,docker)
 
 ## Tech Blog
 [yasuhira blog](https://yasuhira-blog.com)
