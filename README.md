@@ -15,6 +15,7 @@ I also run a tech blog where I introduce insights on the latest web technologies
 ## Skills
 ### Programming Languages
 ![](https://skillicons.dev/icons?i=c,java,py,html,css,php)
+![](https://skillicons.dev/icons?i=ts,go,rust)
 
 ### OS and Hardware
 ![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)
@@ -24,6 +25,7 @@ I also run a tech blog where I introduce insights on the latest web technologies
 
 ### Tools
 ![](https://skillicons.dev/icons?i=git,github,vim,md,mysql,docker)
+![](https://skillicons.dev/icons?i=discord,npm,svg)
 
 ## Tech Blog
 [yasuhira blog](https://yasuhira-blog.com)
